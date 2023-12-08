@@ -6,6 +6,7 @@ This project focuses on utilizing AB testing, implemented in Excel, to investiga
 
 This Excel-based AB testing project provides a systematic and data-driven approach to assess potential racial discrimination in home mortgage loan approvals. By uncovering and addressing disparities, financial institutions can not only fulfill their legal and ethical obligations but also enhance trust, reputation, and market opportunities. This project serves as a valuable tool in promoting fairness, transparency, and inclusivity in the financial sector, contributing to a more equitable and responsible business environment.
 
+
 Key Features:
 
 AB Testing Methodology: The project employs AB testing, a statistical method commonly used in experimental design, to compare the approval rates of mortgage loan applications between two groups: one representing a specific racial demographic and the other serving as a control group.
@@ -13,6 +14,7 @@ AB Testing Methodology: The project employs AB testing, a statistical method com
 Excel Analysis: Leveraging the power of Excel, the project facilitates the organization, analysis, and visualization of large datasets, allowing for a comprehensive examination of approval patterns and disparities.
 
 Statistical Significance: By applying statistical tests within Excel, the project aims to determine whether observed differences in approval rates are statistically significant, providing evidence to support or refute the presence of racial discrimination in mortgage lending.
+
 
 Business Implications:
 
